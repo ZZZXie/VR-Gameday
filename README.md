@@ -1,4 +1,11 @@
-EECS495 Mixed Reality Project - Gameday
+#EECS495 Mixed Reality Project - Gameday
+
+## Group Member (Not ranked by contribution)
+Zijian Xie, Zhengxi Tan, Jacob Hage, Quentin Metzmaker
+
+## Acknowledgement
+Thanks to Professor David Chesney and professor Michael Nebelign and EECS at University of Michigan for their support.
+
 ## Alpha Release
 For the Alpha Release, we primarily focus on delivering the core functionality 
 of our project, which is the ability to offer our users an immersive 360 viewing experience. The following are the three main features plus a starting page
