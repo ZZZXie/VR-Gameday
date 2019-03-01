@@ -1,4 +1,4 @@
-#EECS495 Mixed Reality Project - Gameday
+# EECS495 Mixed Reality Project - Gameday
 
 ## Group Member (Not ranked by contribution)
 Zijian Xie, Zhengxi Tan, Jacob Hage, Quentin Metzmaker
