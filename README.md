@@ -6,6 +6,15 @@ Zijian Xie, Zhengxi Tan, Jacob Hage, Quentin Metzmaker
 ## Acknowledgement
 Thanks to Professor David Chesney and professor Michael Nebelign and EECS at University of Michigan for their support.
 
+## Design Rendering
+![Goal](/Images/Effects.png)
+
+## Implementation
+We choose Windows Mixed Reality Headsets as a proof-of-concept VR hardware.  
+Our 360 camera is narrowed down to Theta Ricoh S and Theta Ricoh V for their supportive developer community.  
+Our VR live streaming is leveraging Microsoft Azure cloud service and have a 30s latency.  
+![Technical Structure for live streaming](/Images/workflow.png)
+
 ## Alpha Release
 For the Alpha Release, we primarily focus on delivering the core functionality 
 of our project, which is the ability to offer our users an immersive 360 viewing experience. The following are the three main features plus a starting page
@@ -41,3 +50,14 @@ Users can easily adjust the volume of the current channel by clicking on the up 
 #### Chat Room
 Users can better engage in the game to share their thoughts and feelings by communicating with other users using text messages, 
 regardless of the channels they are currently watching.
+
+## Final Product
+#### User Interface
+![User Interface](/Images/ui.png)
+
+#### Live Chat Feature
+![Live Chat](/Images/livechat.png)
+
+#### Live Streaming feature
+![Live Streaming](/Images/livestreaming.png)
+
