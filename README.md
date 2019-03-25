@@ -1,6 +1,22 @@
 # EECS495 Mixed Reality Project - Gameday
 
-## Group Member (Not ranked by contribution)
+## Abstract
+
+#### Keywords
+Accessibility, Virtual Reality, Interactive and Immersive experience, Children, Live Sports Events
+
+#### Background
+Hospitalization can be an unpleasant experience for pediatric patients, especially kids when they suffer from physical pains caused by diseases and/or suffer from isolation to events happening outside the hospital. Providing meaningful enrichment activities besides medical care can greatly reduce patients’ stress and provide them opportunities to interact with outside world.
+
+#### Objectives
+* Use available VR / MR technology (e.g. Acer Mixed Reality Headset) to provide an opportunity for short- / long-term pediatric patients at CS Mott Children’s Hospital to virtually observe and participate in some live UM athletic event(s). 
+* Use haptic, audible and visual feedbacks based on VR / MR headsets to make game watching an immersive experience, involving virtually sitting in the stadium, interacting with players, and interacting with other patients.
+* Future direction: Make some VR sports games available to patients at halftime to relax
+
+#### End Users
+People with various abilities
+
+## Group Formation (Not ranked by contribution)
 Zijian Xie, Zhengxi Tan, Jacob Hage, Quentin Metzmaker
 
 ## Acknowledgement
